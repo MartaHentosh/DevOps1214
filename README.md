@@ -1,3 +1,3 @@
 # DevOps1214
 
-test repo for 2 homework
+test repo for homework
